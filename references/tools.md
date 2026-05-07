@@ -11,4 +11,4 @@
 # Visualization tools
 - JHelioviewer - https://www.jhelioviewer.org
 - DS9 - https://sites.google.com/cfa.harvard.edu/saoimageds9/download
-
+- Affinity - https://www.affinity.studio
