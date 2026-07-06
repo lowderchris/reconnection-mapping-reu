@@ -1,6 +1,12 @@
+# 6 July 2026
+- [X] AGU abstract
+- [X] Begin drafting work for final presentation / poster
+- [X] February 2026 flare analysis update
+- [ ] Start thinking about spectroscopy
+
 # 29 June 2026
 - [X] Flare list progress in great shape
-- [ ] Think about where best to publish this
+    - [ ] Think about where best to publish this
 - [X] Targeted ideal follow on flare and sourced data
 - [X] Began work running through existing notebooks
 - [ ] Adapt where needed and get to final output arrays
