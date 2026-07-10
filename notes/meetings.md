@@ -1,3 +1,9 @@
+# 10 July 2026
+- [ ] Use updated animation to find target frame
+- [ ] Plot target frame, to see ribbon structure in more detail (okay if background is dim)
+- [ ] If no structure, look at nearby frames
+- [ ] After settling on target frame, find corresponding IRIS data and plot
+
 # 6 July 2026
 - [X] AGU abstract
 - [X] Begin drafting work for final presentation / poster
